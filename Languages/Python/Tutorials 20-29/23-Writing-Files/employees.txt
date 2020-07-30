@@ -1,0 +1,9 @@
+Jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - Accountant
+New line: "Toby - Human Resources"
+New Line: "Kelly - Customer Service"
+New line: "Toby - Human Resources"
+New Line: "Kelly - Customer Service"
